@@ -1,13 +1,13 @@
-## period 1
+## period 1（2022）
 小迪安全
 ### something need to finish
-+ Sqli-labs
++ Sqli-labs--知识整理（一个月搞完）
 + upload-labs
 + 浏览器安全、beef使用
 + edusrc
 + 《msf渗透测试》
 + cs、nmap使用
-+ ctf
++ ctf--wp整理
 
 ## period 2
 + 暗月
